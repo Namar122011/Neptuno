@@ -1,0 +1,70 @@
+
+   body{ color: aqua;
+    background-color:rgb(255, 255, 255);
+    font-family:'Times New Roman',Times, serif;
+    text-align:center;
+    font-size:xx-large;
+
+}
+footer{
+    color:rgb(255,255,255);
+background-color: rgb(161, 159, 240);
+text-align: center;
+padding: 10px;
+margin-top: 80px;
+position: relative;
+}
+.info{
+    color: rgb(243, 157, 157);
+}
+.container{
+    margin: 30px;
+    width: 90%;
+    background-color: black;
+    align-items: center;
+    padding: 15px;
+}
+.two{
+    background-color:aquamarine}
+    nav{
+        background-color:cornflowerblue;
+        overflow: hidden;
+    
+    }
+    nav a{
+        float:left;
+        display: block;
+        color: wheat;
+        text-align: center;
+        text-decoration: none;
+    }
+    .dropdown .drop{
+        float: left;
+        overflow: auto;
+        
+    }
+    .dropdown .drop{
+        color: black;
+        background-color: rgb(48, 148, 235);
+        border: white;
+        text-decoration: none;
+        font-size: 80px;
+        margin-left: 20px;
+    }
+    .btncontent{
+        display:none ;
+        position: absolute;
+        background-color: violet;
+        width: 220px;
+    }
+    .btncontent a{
+        float: none;
+        color: blueviolet;
+        padding: 20px;
+        text-decoration: none;
+        display: block;
+        text-align: left;
+    }
+    .dropdown:hover .btncontent{
+        display: block;
+    }
