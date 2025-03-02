@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width-device-with, initial scale=1.0">
+ <title> Sobre mi </title>
+<link rel="stylesheet" href="styles.css/styles.css">
+</head>
+<body> 
+
+ <header>
+
+    <nav>
+        <div class="dropdown">
+            <button class="drop"></button>
+             </div> class=""btncontent">
+        <ul>
+            <li><a
+href="index.html">Inicio</a></li>
+            <li><a href="sobremi.html">SobreMi</a></li>
+        </ul>
+         </div>
+    </nav>
+ </header> 
+ <main> 
+     <section class="container">
+      <p> <h1 > Sobre mi
+         </h1>
+            
+        </p>  
+        <div></div>
+    .</section> 
+        <section class="two"></section>
+            <p> 
+            </p> 
+        
+        </section> 
+ </main> 
+</body>
+<footer>Naeemah A. Club Astrocode. 
+<p> &copy;2025 Mi pagina web. Todos los derechos reservados </p>
+</footer>
+</html>
+
+

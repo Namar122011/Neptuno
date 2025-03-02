@@ -1,6 +1,6 @@
 
    body{ color: aqua;
-    background-color:rgb(255, 244, 244);
+    background-color:rgb(255, 255, 255);
     font-family:'Times New Roman',Times, serif;
     text-align:center;
     font-size:xx-large;
@@ -8,14 +8,14 @@
 }
 footer{
     color:rgb(255,255,255);
-background-color: aliceblue;
+background-color: rgb(161, 159, 240);
 text-align: center;
 padding: 10px;
 margin-top: 80px;
 position: relative;
 }
 .info{
-    color: rgb(250,38,38);
+    color: rgb(243, 157, 157);
 }
 .container{
     margin: 30px;
@@ -45,7 +45,7 @@ position: relative;
     }
     .dropdown .drop{
         color: black;
-        background-color: aliceblue;
+        background-color: rgb(48, 148, 235);
         border: white;
         text-decoration: none;
         font-size: 80px;
